@@ -8,5 +8,5 @@
 * `pip install -r requirements.txt`
 
 ####Usage:
-* python script.py tag
-* Not all tags might work, tags like - Python 2.7 have to be checked.
+* `python script.py tag`
+* Not all tags might work, tags like - `Python 2.7` have to be checked.
