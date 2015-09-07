@@ -4,7 +4,7 @@
 
 ####Installation:
 * Create a [virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvwrapper)
-* While creating use `--system-site-packages` option
+* While creating virtualenv use `--system-site-packages` option
 * `pip install -r requirements.txt`
 
 ####Usage:
