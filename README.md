@@ -3,9 +3,10 @@
   StackOverflow. Only the first question is shown.
 
 ####Installation:
-* Create a (virtualenv)[http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvwrapper]
+* Create a [virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvwrapper)
 * While creating use `--system-site-packages` option
 * `pip install -r requirements.txt`
 
 ####Usage:
 * python script.py tag
+* Not all tags might work, tags like - Python 2.7 have to be checked.
