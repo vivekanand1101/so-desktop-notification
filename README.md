@@ -1,9 +1,9 @@
 # so-desktop-notification
-* Gives desktop notification every 60 seconds from a specific tag on
+* Gives desktop notification every 60 seconds from given tags on
   StackOverflow. Only the first question is shown.
 
 ####Installation:
-* Create a [virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvwrapper)
+* Create a [virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtual-environments)
 * While creating virtualenv use `--system-site-packages` option
 * `pip install -r requirements.txt`
 
