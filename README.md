@@ -9,4 +9,4 @@
 
 #### Usage:
 * `python script.py tag1 tag2 tag3`
-* Not all tags might work, tags like - `Python 2.7` have to be checked.
+* Not all tags will work, tags like - `Python 2.7` have to be checked.
