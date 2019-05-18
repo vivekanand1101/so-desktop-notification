@@ -1,4 +1,4 @@
-# so-desktop-notification
+# so-desktop-notification:
 * Gives desktop notification every 60 seconds from given tags on
   [StackOverflow](https://stackoverflow.com/). Only the first question is shown.
 
